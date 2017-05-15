@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\anusl\Desktop\android\android\book_apps\ch08_TipCalculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="596c8d1799913f4ac5f32af4e12fc3ef39d0f09b">
+        <dex dex="C:\Users\anusl\Desktop\android\android\book_apps\ch08_TipCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7ae1f5a2758d0d9083c3d6a31ecc047f9114623e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\anusl\Desktop\android\android\book_apps\ch08_TipCalculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\anusl\Desktop\android\android\book_apps\ch08_TipCalculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_df1457e30c9e9f43e742fc20bae40d0498267982\classes.dex" />
+    </item>
+
+</items>
